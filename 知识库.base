@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("wiki")
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - type
+      - updated
+      - created
+      - tags
+      - confidence

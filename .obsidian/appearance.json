@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Velocity",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "【日历插件】Calendar"
+  ],
+  "baseFontSize": 20,
+  "accentColor": ""
+}

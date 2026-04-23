@@ -1,0 +1,8 @@
+.smtcmp_json_db/
+.smtcmp_vector_db.tar/
+.smtcmp_vector_db.tar.gz
+.obsidian/plugins/
+.obsidian/workspace.json
+.keep-the-rhythm/
+.skills/
+match/

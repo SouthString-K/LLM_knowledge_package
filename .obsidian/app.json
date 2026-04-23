@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./项目附件",
+  "userIgnoreFilters": [
+    "archive/"
+  ]
+}
