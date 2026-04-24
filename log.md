@@ -6,6 +6,91 @@
 
 ## 历史记录
 
+## [2026-04-24] ingest | 新资料：Strategy-Supervised Autonomous Laparoscopic Camera Control via Event-Driven Graph Mining
+
+**原始资料：** `raw/sources/papers_my_own/icra_workshop.pdf`
+
+**资料页：** `source-2026-04-24-icra_workshop`
+
+**自动关联页面：**
+- source-2026-04-12-tro-laparoscopic-control
+- source-2026-04-23-ocean-2026-04-14
+- source-2026-04-24-mamba-yolo
+- source-2026-04-12-scamba-yolo
+
+**更新页面：**
+- log.md
+- index.md
+- wiki/sources/source-2026-04-24-icra_workshop.md
+
+## [2026-04-24] ingest | 新资料：Mamba YOLO: A Simple Baseline for Object Detection with State Space Model
+
+**原始资料：** `raw/sources/paper_I_study/object_detection/Mamba-YOLO.pdf`
+
+**资料页：** `source-2026-04-24-mamba-yolo`
+
+**自动关联页面：**
+- source-2026-04-12-scamba-yolo
+- source-2026-04-12-tro-laparoscopic-control
+- source-2026-04-23-ocean-2026-04-14
+- source-2026-04-24-deimv2-dinov3
+
+**更新页面：**
+- log.md
+- index.md
+- wiki/sources/source-2026-04-24-mamba-yolo.md
+
+## [2026-04-24] ingest | 新资料：Real-Time Object Detection Meets DINOv3
+
+**原始资料：** `raw/sources/paper_I_study/object_detection/DEIMV2-DINOV3.pdf`
+
+**资料页：** `source-2026-04-24-deimv2-dinov3`
+
+**自动关联页面：**
+- source-2026-04-12-tro-laparoscopic-control
+- source-2026-04-12-scamba-yolo
+- source-2026-04-24-deim
+- source-2026-04-23-ocean-2026-04-14
+
+**更新页面：**
+- log.md
+- index.md
+- wiki/sources/source-2026-04-24-deimv2-dinov3.md
+
+## [2026-04-24] ingest | 新资料：DEIM: DETR with Improved Matching for Fast Convergence
+
+**原始资料：** `raw/sources/paper_I_study/object_detection/DEIM.pdf`
+
+**资料页：** `source-2026-04-24-deim`
+
+**自动关联页面：**
+- source-2026-04-12-tro-laparoscopic-control
+- source-2026-04-12-scamba-yolo
+- source-2026-04-23-ocean-2026-04-14
+- source-2026-04-24-第七版中国计算机学会推荐国际学术会议和期刊目录-正式版
+
+**更新页面：**
+- log.md
+- index.md
+- wiki/sources/source-2026-04-24-deim.md
+
+## [2026-04-24] ingest | 新资料：中国计算机学会推荐国际学术会议和期刊目录
+
+**原始资料：** `raw/sources/paper_I_study/第七版中国计算机学会推荐国际学术会议和期刊目录（正式版）.pdf`
+
+**资料页：** `source-2026-04-24-第七版中国计算机学会推荐国际学术会议和期刊目录-正式版`
+
+**自动关联页面：**
+- source-2026-04-12-scamba-yolo
+- source-2026-04-23-ocean-2026-04-14
+- concept-object-detection
+- concept-submarine-cable-detection
+
+**更新页面：**
+- log.md
+- index.md
+- wiki/sources/source-2026-04-24-第七版中国计算机学会推荐国际学术会议和期刊目录-正式版.md
+
 ## [2026-04-13] concept | 新建视觉算法链路概念页
 
 - 新建概念页：concept-yolov26-sam2-vision-pipeline
